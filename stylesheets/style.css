@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+/* line 3, ../sass/style.scss */
+.container {
+  display: inline-flex;
+  margin: 1rem;
+}
+
+/* line 7, ../sass/style.scss */
+.card {
+  margin: auto;
+  width: 20.68rem;
+  height: 27.56rem;
+  left: 38.31rem;
+  bottom: 210.31rem;
+  background: #FFFFFF;
+  border: 1px solid #FF5000;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 8px rgba(0, 0, 0, 0.25);
+}
+
+/* line 18, ../sass/style.scss */
+.circle-card {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+/* line 23, ../sass/style.scss */
+img {
+  width: 6.25rem;
+  height: 6.25rem;
+  border-radius: 50px;
+}
+
+/* line 29, ../sass/style.scss */
+p {
+  Font-Family: Poppins, sans-serif;
+  Font-Style: Regular;
+  Font-Size: 1.12rem;
+  line-height: 1.6rem;
+  margin: 1rem;
+}
+
+/* line 37, ../sass/style.scss */
+h3 {
+  font-Family: Poppins;
+  font-style: Regular;
+  font-Size: 0.7 rem;
+  color: #FF5000;
+}
+
+/* line 44, ../sass/style.scss */
+.btn-click {
+  display: flex;
+  margin: auto;
+  width: 15rem;
+  height: 3.75rem;
+  background: #FF5000;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 0.60rem;
+}
+
+/* line 55, ../sass/style.scss */
+.btn-click a {
+  margin: auto;
+  text-decoration: none;
+  color: white;
+}
